@@ -1,5 +1,7 @@
 #Ikon Traces (2014)
 
+*by [Pete Ashton](http://peteashton.com)*
+
 **Photography art-walk commissioned by [Ikon](https://ikon-gallery.org/) as part of their 50th anniversary, run in partnership with the [Still Walking](http://www.stillwalking.org/) festival.**
 
 From [the event page](https://ikon-gallery.org/event/ikon-traces-walking-tour/):
