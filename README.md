@@ -32,3 +32,8 @@ For a more formal portfolio, see [peteashton.com/art](http://peteashton.com/art)
 
 2014: Photographic art-walk comissioned by Ikon gallery for 50th anniversary. 
 
+##Ongoing Fascinations
+
+###[Slit-Scanning](https://github.com/peteash10/Artworks/blob/master/Slit%20Scanning/ReadMe.md)
+
+Extracting columns of pixels to make new images.
