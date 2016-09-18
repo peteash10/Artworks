@@ -8,7 +8,7 @@ Diversity in leadership across all areas is an issue, no-one but the biggest wan
 
 However, this sort of mass average always produces a result like with no nuance, and it's fairly easy to dismiss, so I merged each MP with 19 of their peers, after randomly sorting them, and [put these in a video](https://vimeo.com/173485602), intended to be displayed on a screen in public. (If anyone would like to display it on a screen in public, please get in touch.)
 
-[https://raw.githubusercontent.com/peteash10/Artworks/master/images/648mpsscreenshot.png](https://vimeo.com/173485602)
+[![](https://raw.githubusercontent.com/peteash10/Artworks/master/images/648mpsscreenshot.png)](https://vimeo.com/173485602)
 
 Here are the original photos:
 
