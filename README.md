@@ -16,6 +16,10 @@ For a more formal portfolio, see [peteashton.com/art](http://peteashton.com/art)
 
 2016: The prelude to my current work on cameras and AI. 
 
+###[The Droids](https://github.com/peteash10/Artworks/tree/master/The%20Droids) 
+
+2016: Comission for Fermynwoods "Too Long For iTunes" exhibition.
+
 ###[Instabeck](https://github.com/peteash10/Artworks/tree/master/Instabeck)
 
 2015: Digital interprepation of a lost scupture.
