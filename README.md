@@ -1,6 +1,6 @@
 #Art projects by Pete Ashton
 
-This Githb repository archives my various art projects, with code and documentation where appropriate. 
+This GitHub repository archives my various art projects, with code and documentation where appropriate. 
 
 For a more formal portfolio, see [peteashton.com/art](http://peteashton.com/art).
 
