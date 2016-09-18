@@ -25,13 +25,13 @@ My piece continues work taking core samples of photographic images from social s
 
 `new number see press cuttings file and minutes`
 
-![](https://raw.githubusercontent.com/peteash10/Artworks/master/Instabeck/InstaBeck%200.jpg)
+![](https://raw.githubusercontent.com/peteash10/Artworks/master/images/InstaBeck%200.jpg)
 
 I put each word / letter / number into Instagram as a hashtag and saved the first eight images that came up. I then put these into a couple of grids.
 
-![](https://raw.githubusercontent.com/peteash10/Artworks/master/Instabeck/InstaBeck%201.jpg)
+![](https://raw.githubusercontent.com/peteash10/Artworks/master/images/InstaBeck%201.jpg)
 
-![](https://raw.githubusercontent.com/peteash10/Artworks/master/Instabeck/InstaBeck%202.jpg)
+![](https://raw.githubusercontent.com/peteash10/Artworks/master/images/InstaBeck%202.jpg)
 
 Unsatisfied with how these looked, I cropped each image to its central pixel (finding the average colour simply produces a lot of grey/brown) and resized them back up to 200x200px, giving a nice clean field of colour.
 
@@ -57,7 +57,7 @@ But for most of the exhibition a pre-recorded loop can run to save electricity.
 
 By a happy co-incidence the work bears a striking similarity to one of Beck’s own paintings and Jo sent me a photo.
 
-![photo](https://raw.githubusercontent.com/peteash10/Artworks/master/Instabeck/Instabeck%20Beck%20Painting.jpg)
+![photo](https://raw.githubusercontent.com/peteash10/Artworks/master/images/Instabeck%20Beck%20Painting.jpg)
 
 Nice!
 
