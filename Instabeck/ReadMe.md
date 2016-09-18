@@ -53,7 +53,7 @@ Over in the top-right is an optional bit of code which uses the computer’s mic
 
 [![](https://raw.githubusercontent.com/peteash10/Artworks/master/images/Instabeck%20Vimeo.jpeg)](https://vimeo.com/138805236)
 
-But for most of the exhibition a pre-recorded loop will simply run.
+But for most of the exhibition a pre-recorded loop can run to save electricity.
 
 By a happy co-incidence the work bears a striking similarity to one of Beck’s own paintings and Jo sent me a photo.
 
