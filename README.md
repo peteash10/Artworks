@@ -37,3 +37,7 @@ For a more formal portfolio, see [peteashton.com/art](http://peteashton.com/art)
 ###[Slit-Scanning](https://github.com/peteash10/Artworks/blob/master/Slit%20Scanning/ReadMe.md)
 
 Extracting columns of pixels to make new images.
+
+###[t-SNE](https://github.com/peteash10/Artworks/tree/master/t-SNE)
+
+Grouping and gridding large collections of images using artificial intelligence systems. 
