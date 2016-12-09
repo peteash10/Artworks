@@ -31,11 +31,3 @@ Cross City Walks is a walking project in collaboration with Andy Howlett where w
 Prior to t-SNE processing I sliced each photo into 12 squares and asked the agorithm to consider them as seperate images. This meant that the contents were roughly divided up and sorted appropriately, rather than trying to find a single theme for very wide-angle photos. 
 
 I particularly like how the (arbitrary) placement of the images in the grid looks a bit like a landscape painting and I call this "A Portrait of Birmingham". 
-
-##Sluice Gate
-
-[![](https://c2.staticflickr.com/9/8332/29711244041_c22723d9c0_b.jpg)](https://www.flickr.com/photos/peteashton/29711244041/)
-
-This piece of canaside equipment was photographed close-up from all sides as one would for photogrammetry. The photos were then fed through t-SNE and a cubist-style image emerged. 
-
-I plan to try this again with other objects and people. 
